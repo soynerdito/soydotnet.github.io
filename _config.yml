@@ -1,10 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: SoyDeveloper And Nerdito
+description: Mainly development stuff, software or hardware
+author: Soynerdito
+github: https://github.com/soynerdito
+about: Computer Engineer working as a developer. Love to keep on learning new stuff and enjoying sharing. Interest change frequently what forces me to keep on learning new stuff.
+disqus_shortname: soynerdito
+google_analytics: 
 
 enableTags: true
 tagarray: []
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://soynerdito.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20

@@ -1,6 +1,7 @@
 ---
 layout: project_single
-title:  "Cool Project"
+title:  "Rick BSides PR Badge"
 slug: "cool-project"
 ---
-Just a demo text for now, which signifies there is lot of scope for improvement.
+Rick and Morty themed BSides PR badge.
+files at https://github.com/soynerdito/RickBadge

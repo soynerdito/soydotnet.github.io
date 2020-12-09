@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Developer seeking new learning experiences.
+Interested in development stuff mostly in any cross platform language.
+No good at talking about myself, so check different posts and see what happens.
+Likes:
+dotnet (c#)
+C/C++
+Python
 
-email: agus[at]python.web.id
+Dislikes:
+javascript
+
+

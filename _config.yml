@@ -1,4 +1,5 @@
 title: SoyDotnet
+profile-img: profile_logo.png
 description: Mainly development stuff, software or hardware
 author: Soynerdito
 github: https://github.com/soynerdito
@@ -27,7 +28,7 @@ social:
       link: "https://github.com/soynerdito"
 
 share:
-  twitter_username: github.io
+  twitter_username: soynerdito
   fb_appid: 
 
 urls:

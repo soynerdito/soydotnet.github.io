@@ -4,7 +4,7 @@ description: Mainly development stuff, software or hardware
 author: Soynerdito
 github: https://github.com/soynerdito
 about: Computer Engineer working as a developer. Love to keep on learning new stuff and enjoying sharing. Interest change frequently what forces me to keep on learning new stuff.
-disqus_shortname: soynerdito
+disqus_shortname:
 google_analytics: 
 
 enableTags: true
